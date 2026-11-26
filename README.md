@@ -1,5 +1,7 @@
 # Hey, I'm Fabian 👋
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Fabian%20Boulegue-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fabian-boulegue/)
+
 **Senior Producer & Game Producer** · Gaming · Smart Home · Tesla & CAN-Bus · Reverse Engineering
 
 Based in Paderborn, Germany — working in game production by day ([astragon Entertainment](https://www.astragon.com/)) and building practical tools around **Gaming / Steam**, **Home Assistant**, and **Tesla / ESP32 / CAN-Bus** in my spare time.
