@@ -1,6 +1,6 @@
 # Hey, I'm Fabian 👋
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Fabian%20Boulegue-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fabian-boulegue/)
+[![LinkedIn](assets/linkedin-badge.svg)](https://www.linkedin.com/in/fabian-boulegue/)
 
 **Senior Producer & Game Producer** · Gaming · Smart Home · Tesla & CAN-Bus · Reverse Engineering
 
